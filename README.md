@@ -1185,19 +1185,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 ========================================== TV Gamer =============================================
 
-#EXTINF:-1 tvg-id="EsportsMax" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/k48sz8VP/download-46.png",ESports Max
+#EXTINF:-1 tvg-id="EsportsMax" group-title="|TV| Gamer🎮" group-logo="" tvg-logo="https://i.postimg.cc/k48sz8VP/download-46.png",ESports Max
 https://streamyes.alsolnet.com/esportsmax/live/chunklist_w55618537.m3u8
 
-#EXTINF:-1 tvg-id="ESTVGAMESTV" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/63sLr3Mj/download-47.jpg",ESTV GAMES TV 
+#EXTINF:-1 tvg-id="ESTVGAMESTV" group-title="|TV| Gamer🎮" group-logo="" tvg-logo="https://i.postimg.cc/63sLr3Mj/download-47.jpg",ESTV GAMES TV 
 https://estv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-estv-rakuten/CDN/512x288_875600/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ESRGAMESTV" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/t4xshz8b/download-47.png",ESR GAMES TV
+#EXTINF:-1 tvg-id="ESRGAMESTV" group-title="|TV| Gamer🎮" group-logo="" tvg-logo="https://i.postimg.cc/t4xshz8b/download-47.png",ESR GAMES TV
 https://eyeonesports.com/480/ESR-003SCTE35.m3u8
 
-#EXTINF:-1 tvg-id="QGAME X TV" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/L8C1QQvZ/download-49.jpg",QGAME X TV
+#EXTINF:-1 tvg-id="QGAME X TV" group-title="|TV| Gamer🎮" group-logo="" tvg-logo="https://i.postimg.cc/L8C1QQvZ/download-49.jpg",QGAME X TV
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-qgamex-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="PlutoTv:Gamer" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/jSZGzDLY/download-50.jpg",Pluto TV:Gamer
+#EXTINF:-1 tvg-id="PlutoTv:Gamer" group-title="|TV| Gamer🎮" group-logo="" tvg-logo="https://i.postimg.cc/jSZGzDLY/download-50.jpg",Pluto TV:Gamer
 https://i.mjh.nz/PlutoTV/5ca7f16c37b88b2694731c79-alt.m3u8
 
 #EXTINF:-1 group-title="|TV| Gamer🎮" tvg-id="Gameplaytv" tvg-logo="https://i.postimg.cc/Hkjv1ZBg/download-7.jpg", Gameplay TV
