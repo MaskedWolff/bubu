@@ -1164,6 +1164,127 @@ https://webudit.webhd.ru/lb/premium463/index.m3u8|Origin=https://weblivehdplay.r
 https://webudit.webhd.ru/lb/premium66/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
+========================================== NBA TV SP =================================================
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="|SPORTS| NBA🏀", Sky Sport NBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
+
+#EXTINF:-1 group-title="|SPORTS| NBA🏀" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV DZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-035/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="|SPORTS| NBA🏀",NBA TV
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+========================================== TV Gamer =============================================
+
+#EXTINF:-1 tvg-id="EsportsMax" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/k48sz8VP/download-46.png",ESports Max
+https://streamyes.alsolnet.com/esportsmax/live/chunklist_w55618537.m3u8
+
+#EXTINF:-1 tvg-id="ESTVGAMESTV" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/63sLr3Mj/download-47.jpg",ESTV GAMES TV 
+https://estv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-estv-rakuten/CDN/512x288_875600/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ESRGAMESTV" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/t4xshz8b/download-47.png",ESR GAMES TV
+https://eyeonesports.com/480/ESR-003SCTE35.m3u8
+
+#EXTINF:-1 tvg-id="QGAME X TV" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/L8C1QQvZ/download-49.jpg",QGAME X TV
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-qgamex-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="PlutoTv:Gamer" group-title="|TV| Gamer🎮" group-logo="https://i.postimg.cc/VNFLRZRx/download-48.jpg" tvg-logo="https://i.postimg.cc/jSZGzDLY/download-50.jpg",Pluto TV:Gamer
+https://i.mjh.nz/PlutoTV/5ca7f16c37b88b2694731c79-alt.m3u8
+
+#EXTINF:-1 group-title="|TV| Gamer🎮" tvg-id="Gameplaytv" tvg-logo="https://i.postimg.cc/Hkjv1ZBg/download-7.jpg", Gameplay TV
+https://buffactorymedia-gameplay-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+=========================================== Anime ===============================================
+
+#EXTINF:-1 channel-id="pluto-5ca6748a37b88b269472dad9" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" tvg-chno="3010" group-title="|TV| Anime🎌" , Nick Jr. Pluto TV
+https://r.mjh.nz/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" tvg-chno="3030" group-title="|TV| Anime🎌" , Dora TV
+https://r.mjh.nz/PlutoTV/5d14fb6c84dd37df3b4290c5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-51c75f7bb6f26ba1cd00002f" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" tvg-chno="3040" group-title="|TV| Anime🎌" , Little Stars Universe
+https://r.mjh.nz/PlutoTV/51c75f7bb6f26ba1cd00002f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5eb301b7395671000780d100" tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" tvg-chno="3050" group-title="|TV| Anime🎌" , Little Baby Bum
+https://r.mjh.nz/PlutoTV/5eb301b7395671000780d100-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ca673e0d0bd6c2689c94ce3" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-chno="3080" group-title="|TV| Anime🎌" , Nickelodeon Pluto TV
+https://r.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d0c16d686454ead733d08f8" tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" tvg-chno="3120" group-title="|TV| Anime🎌" , TOTALLY TURTLES
+https://r.mjh.nz/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" tvg-chno="3130" group-title="|TV| Anime🎌" , Transformers TV
+https://r.mjh.nz/PlutoTV/60fb053712f22a0007ff14d2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60f9ebb06f0b3d000746fbdb" tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" tvg-chno="3140" group-title="|TV| Anime🎌" , Team Spirit
+https://r.mjh.nz/PlutoTV/60f9ebb06f0b3d000746fbdb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" tvg-chno="3150" group-title="|TV| Anime🎌" , LEGO Kids TV
+https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5db0ad56edc89300090d2ebb" tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" tvg-chno="3160" group-title="|TV| Anime🎌" , Kids Movie Club
+https://r.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5db0ad56edc89300090d2ebb" tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" tvg-chno="3160" group-title="|TV| Anime🎌" , Kids Movie Club
+https://r.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb028c2e6a0c00075275a5" tvg-id="60fb028c2e6a0c00075275a5" tvg-logo="https://images.pluto.tv/channels/60fb028c2e6a0c00075275a5/colorLogoPNG.png" tvg-chno="3170" group-title="|TV| Anime🎌" , Rainbow Squad
+https://r.mjh.nz/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb040d4795a6000762fe8f" tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3180" group-title="|TV| Anime🎌" , Kartoon Channel!
+https://r.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dae0a40e8ee0d000975e99b" tvg-id="5dae0a40e8ee0d000975e99b" tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" tvg-chno="3190" group-title="|TV| Anime🎌" , pocket.watch
+https://r.mjh.nz/PlutoTV/5dae0a40e8ee0d000975e99b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fb584b7613a31000789de5a" tvg-id="5fb584b7613a31000789de5a" tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" tvg-chno="3200" group-title="|TV| Anime🎌" , Ryan and Friends
+https://r.mjh.nz/PlutoTV/5fb584b7613a31000789de5a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faf9368c7ad900082bc9a8" tvg-id="60faf9368c7ad900082bc9a8" tvg-logo="https://images.pluto.tv/channels/60faf9368c7ad900082bc9a8/colorLogoPNG.png" tvg-chno="3210" group-title="|TV| Anime🎌" , Find Out Why
+https://r.mjh.nz/PlutoTV/60faf9368c7ad900082bc9a8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-56171fafada51f8004c4b40f" tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" tvg-chno="3220" group-title="|TV| Anime🎌" , Forever Kids
+https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-637e55347427a40007fac703" tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" tvg-chno="3290" group-title="|TV| Anime🎌" , Sailor Moon
+https://r.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5812b7d3249444e05d09cc49" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvg-chno="3300" group-title="|TV| Anime🎌" , Anime All Day
+https://r.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f7790b3ed0c88000720b241" tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" tvg-chno="3310" group-title="|TV| Anime🎌" , One Piece
+https://r.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5da0c85bd2c9c10009370984" tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" tvg-chno="3320" group-title="|TV| Anime🎌" , Naruto
+https://r.mjh.nz/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4ec10ed9636f00089b8c89" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" tvg-chno="3330" group-title="|TV| Anime🎌" , Yu-Gi-Oh! (US Feed)
+https://r.mjh.nz/PlutoTV/5f4ec10ed9636f00089b8c89-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60f74ba51c82ac000776c669" tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" tvg-chno="3340" group-title="|TV| Anime🎌" , Lupin the 3rd
+https://r.mjh.nz/PlutoTV/60f74ba51c82ac000776c669-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-646cc23ae94c3800082f6793" tvg-id="646cc23ae94c3800082f6793" tvg-logo="https://images.pluto.tv/channels/646cc23ae94c3800082f6793/colorLogoPNG.png" tvg-chno="357" group-title="|TV| Anime🎌" , Inazuma Eleven (English Feed) (A)
+https://r.mjh.nz/PlutoTV/646cc23ae94c3800082f6793-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-642aeeef2912c900080a0a72" tvg-id="642aeeef2912c900080a0a72" tvg-logo="https://images.pluto.tv/channels/642aeeef2912c900080a0a72/colorLogoPNG.png" tvg-chno="358" group-title="|TV| Anime🎌" , Yu-Gi-Oh! (Norway Feed)
+https://r.mjh.nz/PlutoTV/642aeeef2912c900080a0a72-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-646cc350939a59000889eb87" tvg-id="646cc350939a59000889eb87" tvg-logo="https://images.pluto.tv/channels/646cc350939a59000889eb87/colorLogoPNG.png" tvg-chno="356" group-title="|TV| Anime🎌" , Pluto TV Anime
+https://r.mjh.nz/PlutoTV/646cc350939a59000889eb87-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-646cc5dfee6a2f000830943e" tvg-id="646cc5dfee6a2f000830943e" tvg-logo="https://images.pluto.tv/channels/646cc5dfee6a2f000830943e/colorLogoPNG.png" tvg-chno="342" group-title="|TV| Anime🎌" , Inazuma Eleven (English Feed) (B)
+https://r.mjh.nz/PlutoTV/646cc5dfee6a2f000830943e-alt.m3u8
 
 
 =========================================== SSC SPORTS ===========================================
