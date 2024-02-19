@@ -1523,6 +1523,150 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
+====================================== Movie ===================================================
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="|TV| Movies🍿 ",HBO
+http://103.113.116.150:25461/mtm1/12345/16
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="|TV| Movies🍿 ",HBO Hits hd
+http://103.113.116.150:25461/mtm1/12345/17
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="|TV| Movies🍿 ",HBO Family hd 
+http://103.113.116.150:25461/mtm1/12345/19
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="|TV| Movies🍿 ",Cinemax hd 
+http://103.113.116.150:25461/mtm1/12345/20 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jb6zL13/imc.png" group-title="|TV| Movies🍿 ", INDONESIA MOVIE CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XyFBhtM/cinemachi.png" group-title="|TV| Movies🍿 ", CINEMACHI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fxn9g6Z/chiextra.png" group-title="|TV| Movies🍿 ", CINEMACHI XTRA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7vSWStv/chimax.png" group-title="|TV| Movies🍿 ", CINEMACHI MAX
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c15cg1S/chikids.png" group-title="|TV| Movies🍿 ", CINEMACHI KIDS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hzy2Wqg/tvnmovie.png" group-title="|TV| Movies🍿 ", TVN MOVIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzG6G7P/celestial.png" group-title="|TV| Movies🍿 ", CELESTIAL MOVIE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gsc93x2/ccm.png" group-title="|TV| Movies🍿 ", CELESTIAL CLASSIC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1kTqK9/thrill.png" group-title="|TV| Movies🍿 ", THRILL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx7dFS0/cinemaworld.png" group-title="|TV| Movies🍿 ", CINEMA WORLD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wg0SJrN/mycinema.png" group-title="|TV| Movies🍿 ", MY CINEMA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b28Tr5j/myfamily.png" group-title="|TV| Movies🍿 ", MY FAMILY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kD9KwdW/mycinemaasia.png" group-title="|TV| Movies🍿 ", MY CINEMA ASIA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+#EXTINF:-1 tvg-chno="" tvg-id="SUN.th" tvg-name="SUN" tvg-logo="https://i.imgur.com/NWuip1G.png" group-title="|TV| Movies🍿 ",SUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://i.imgur.com/SYOqA7z.png" group-title="|TV| Movies🍿 ",SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="" tvg-id="BOXFILM.th" tvg-name="BOX FILM" tvg-logo="https://i.imgur.com/ACIoLb2.png" group-title="|TV| Movies🍿 ",BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="" tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" tvg-logo="https://i.imgur.com/2QbShex.png" group-title="|TV| Movies🍿 ",MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="" tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="|TV| Movies🍿 ",B4U MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="" tvg-id="Mangorn" tvg-name="Mangorn" tvg-logo="https://i.imgur.com/vMWjnIm.png" group-title="|TV| Movies🍿 ",Mangorn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="" tvg-id="JOM YUT" tvg-name="JOM YUT" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg" group-title="|TV| Movies🍿 ",JOM YUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/dochannel/dochannel.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="" tvg-id="MEDIA TV" tvg-name="MEDIA TV" tvg-logo="https://i.imgur.com/EQJuS1H.png" group-title="|TV| Movies🍿 ",MEDIA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="" tvg-id="WarnerTVSoutheastAsia.us" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/msimG9G.png" group-title="|TV| Movies🍿 ",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC28/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://i.imgur.com/B3RHwVN.png" group-title="|TV| Movies🍿 ",Action Hollywood Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="7flix" tvg-name="7flix" tvg-logo="https://i.imgur.com/8uCqGhY.png" group-title="|TV| Movies🍿 ",7flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="|TV| Movies🍿 ",ETV BIOSKOP 1 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="|TV| Movies🍿 ",ETV BIOSKOP 2 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="|TV| Movies🍿 ",ETV BIOSKOP 3 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="|TV| Movies🍿 ",ETV BIOSKOP 4 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+
+
 
 =========================================== ZIGGO SPORTS ===========================================
 
