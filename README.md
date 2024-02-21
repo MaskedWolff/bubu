@@ -1,57 +1,5 @@
 =======================================================================
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Everton vs Crystal Palace
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd?p=web
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
-
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Athlethic Club vs Girona
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:30 Man City vs Brentford
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
-#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Inter Milan vs Atletico Madrid
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Dortmund vs PSV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LGPDhBuQwsvxFZadz3ERxQ","k":"tx3xGfme5xJ+d6U5jSWAHg"},{"kty":"oct","kid":"8e9ytdWdsgMkNR57W9BNgA","k":"gEY5W13F1WWxaRuoe8SXuQ"},{"kty":"oct","kid":"AxzO7igq5WxWuYReDwM+0A","k":"im9fSEhkxYE2mYwDEyD09g"},{"kty":"oct","kid":"xtJWXPWGhrVJSEucDWPTuA","k":"f048YK7p2qX2K4K98YEL0w"},{"kty":"oct","kid":"I9ioEUXoLWH18zkkEigFOQ","k":"Wb/7P1V/7GUD/m92poiBog"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",15:00 Kawasaki Frontale vs Shandong Taishan
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",17:00 Jeonbuk Motors vs Pohang
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 21 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Arsenal vs Porto
@@ -93,26 +41,26 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:45 Milan vs Rennes
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:45 Milan vs Rennes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Roma vs Feyenord
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Roma vs Feyenord
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Lazio vs Torino
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Lazio vs Torino
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-#https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:00 Al Hilal vs Sepahan
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:00 Al Hilal vs Sepahan
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -120,9 +68,9 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:00 Al Ittihad vs Navbahor
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:00 Al Ittihad vs Navbahor
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -130,22 +78,61 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",15:00 TNI vs Borneo
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",15:00 TNI vs Borneo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 Persija vs Madura United
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 Persija vs Madura United
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 23 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",15:00 Persebaya vs Persita
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 23 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 Persib vs Barito
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 23 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Leverkusen vs Mainz
+#EXTINF:-1 group-title="|SPORTS| BeiN Dazn Sky🚩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcOBnVPQx9X72D7OraZYIRKPIguq28mHRB1jd_GFqyg&s",Dazn De 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",15:00 Persis Solo vs Kediri
+#http://103.113.116.150:25461/mtm1/12345/3
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 PSM vs Bali United
+#http://103.113.116.150:25461/mtm1/12345/3
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:00 Man United vs Fulham
+
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:30 Man City vs Bournemouth
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Arsenal vs Newcastle United
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 Valencia vs Granda
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:15 Barcelona vs Getafe
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:30 Munchen vs RB Leipzig
 
 ===============================================================================
 
@@ -163,7 +150,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1🏆",LIVE 3 (BRI)
-https://s.id/indosiar_shareext-m3u8
+http://103.113.116.150:25461/mtm1/12345/3
 
 ===============================================================================
 
@@ -925,13 +912,13 @@ https://bit.ly/4aYnRZC?profile=inspirationlivetv.m3u8
 #EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp",Swerve Combat
 https://bit.ly/47jr7N2?profile=inspirationlivetv.m3u8
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg",WWE Network US
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="",WWE Network US
 http://193.58.152.27:7788/WWE/index.m3u8
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling WWE 1
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling 1
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling WWE  2
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling 2
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate 1
@@ -942,6 +929,15 @@ http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1&amp;f=.c
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="|SPORTS| Fight🥊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",unifi UFC
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="|SPORTS| Fight🥊",Sony TEN 1 
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="|SPORTS| Fight🥊",Sony TEN 2 
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="|SPORTS| Fight🥊",Sony TEN 3 
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
+#EXTINF: -1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="|SPORTS| Fight🥊",Sony TEN 4 
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1600,6 +1596,9 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="|TV| Movies🍿 ",HBO
 http://103.113.116.150:25461/mtm1/12345/16
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="|TV| Movies🍿 ",BIOSKOP INDONESIA
+http://103.113.116.150:25461/mtm1/12345/23
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="|TV| Movies🍿 ",HBO Hits hd
 http://103.113.116.150:25461/mtm1/12345/17
 
@@ -2213,17 +2212,37 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 
 =========================================== |TV| Kids💚 ==============================================
 
-#EXTINF:0 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/Animax.png" group-title="|TV| Kids💚",ANIMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/5LqspZ2/20230822-200849.png" group-title="|TV| Kids💚", MENTARI
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Aniplus" group-title="|TV| Kids💚" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=license_type=clearkey&license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S63v0BK/20230828-043622.png" group-title="|TV| Kids💚", INDIKIDS
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/dQtWLNb/20230828-043334.png" group-title="|TV| Kids💚", HOORE
+https://github.com/andriwibowo2222/tvip/raw/main/horeee.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sMV1K3/20230828-042902.png" group-title="|TV| Kids💚", CBEEBIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFxnX1y/20230828-042221.png" group-title="|TV| Kids💚", NICKELODEON
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/3SP3qXK/20230928-235706.png" group-title="|TV| Kids💚", BABY BUS
+https://live-yt.streamingastv.workers.dev/live/jL6XX9kjxSo/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 group-title="|TV| Kids💚" tvg-logo="https://i.ytimg.com/vi/72i29Gls0GY/maxresdefault_live.jpg", ANTIKS LIVE
+https://live-yt.streamingastv.workers.dev/live/72i29Gls0GY/master.m3u8?|referer=https://t.me/astvstreaming
+
+#EXTINF:-1 group-title="|TV| Kids💚" tvg-logo="https://i.ytimg.com/vi/EExgaFKEXAU/maxresdefault_live.jpg",🔴Little Angel Indonesia
+https://live-yt.streamingastv.workers.dev/live/EExgaFKEXAU/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 group-title="|TV| Kids💚" tvg-id="BabySharktv" tvg-logo="https://i.postimg.cc/wjPJy0Hg/download-6.jpg", Baby Shark TV
 https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
@@ -2275,16 +2294,17 @@ https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #https://linear004-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsf150)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="|SPORTS| BeiN Dazn Sky🚩", Sky Sports Football
+http://103.113.116.150:25461/mtm1/12345/128
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00033a7801c324b97dd9997d15cd1e6d:da90342266ae32a331a83bd05d6308bd
-https://linear016-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_sd.mpd
+#https://linear016-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_sd.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="|SPORTS| BeiN Dazn Sky🚩", Sky Sports Football HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
-http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+#http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
 
 #EXTINF:-1 group-title="|SPORTS| BeiN Dazn Sky🚩" tvg-logo="https://i.imgur.com/jM1FeOX.png" ,Sky Sports NFL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
