@@ -1186,19 +1186,22 @@ https://webudit.webhd.ru/lb/premium289/index.m3u8
 https://webudit.webhd.ru/lb/premium290/index.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="https://dl.dropboxusercontent.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="|SPORTS| International🚩",RMC Sport 1
+http://103.113.116.150:25461/mtm1/12345/168
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium119/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium119/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="|SPORTS| International🚩",RMC Sport 2
+http://103.113.116.150:25461/mtm1/12345/169
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium120/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium120/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC Sport 3" tvg-logo="https://dl.dropboxusercontent.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="|SPORTS| International🚩",RMC Sport 3
+http://103.113.116.150:25461/mtm1/12345/170
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium121/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium121/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport France" tvg-logo="https://dl.dropboxusercontent.com/s/cuqmceeumh8dm11/canal%2B.png" group-title="|SPORTS| International🚩",Canal+ Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -2304,9 +2307,10 @@ https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/
 https://linear005-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_sd.mpd
 
 #EXTINF:-1 group-title="|SPORTS| BeiN Dazn Sky🚩" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" ,Sky Sports Golf 
+http://103.113.116.150:25461/mtm1/12345/161
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0003276bbe0b7f5c9c05ec201bddf545:a3546a8bd8d03e6f3ca48629ea45ebb8
-https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsgolf)/manifest_sd.mpd
+#https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsgolf)/manifest_sd.mpd
 
 #EXTINF:-1 group-title="|SPORTS| BeiN Dazn Sky🚩" tvg-logo="https://i.imgur.com/PRF0DsV.png" ,Sky Sports Mix
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
