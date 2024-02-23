@@ -23,16 +23,10 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",15:00 Persis Solo vs Kediri
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://link.zozotv.xyz:443/Rina923/390023/45
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 PSM vs Bali United
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://link.zozotv.xyz:443/Rina923/390023/45
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:00 Man United vs Fulham
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
