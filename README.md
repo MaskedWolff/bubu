@@ -23,10 +23,16 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",15:00 Persis Solo vs Kediri
-https://link.zozotv.xyz:443/Rina923/390023/45
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 PSM vs Bali United
-https://link.zozotv.xyz:443/Rina923/390023/45
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 24 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:00 Man United vs Fulham
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1136,32 +1142,32 @@ http://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 #EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="Diema Sport" tvg-logo="https://dl.dropboxusercontent.com/s/yn9gyp48b3t8mkm/diema.png" group-title="|SPORTS| Premium 1🚩",Diema Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium465/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium465/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="Diema Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/dm7vd6jjk2k0xsy/diema2.png" group-title="|SPORTS| Premium 1🚩",Diema Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium466/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium466/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-name="Digi Sport 1 Romania" tvg-logo="https://dl.dropboxusercontent.com/s/ik8auuimyrawk7v/digisport.png" group-title="|SPORTS| Premium 1🚩",Digi Sport 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium400/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium400/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="DigiSport2Romania.ro" tvg-name="Digi Sport 2 Romania" tvg-logo="https://dl.dropboxusercontent.com/s/ik8auuimyrawk7v/digisport.png" group-title="|SPORTS| Premium 1🚩",Digi Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium401/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium401/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="DigiSport3Romania.ro" tvg-name="Digi Sport 3 Romania" tvg-logo="https://dl.dropboxusercontent.com/s/ik8auuimyrawk7v/digisport.png" group-title="|SPORTS| Premium 1🚩",Digi Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium402/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium402/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://dl.dropboxusercontent.com/s/ik8auuimyrawk7v/digisport.png" group-title="|SPORTS| Premium 1🚩",Digi Sport 4 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium403/index.m3u8|Origin=https://weblivehdplay.ru/
+#https://webudit.webhd.ru/lb/premium403/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1🚩", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1180,45 +1186,45 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 tvg-id="SportsTV1" tvg-logo="https://i.postimg.cc/k4rWVHHX/download-2024-01-25-T184513-130.png" group-title="|SPORTS| Premium 1🚩", Sports TV1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium49/index.m3u8
+#https://webudit.webhd.ru/lb/premium49/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV2" tvg-logo="https://i.postimg.cc/Z5HwkJCt/images-13.png" group-title="|SPORTS| Premium 1🚩", Sports TV2
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium74/index.m3u8
+#https://webudit.webhd.ru/lb/premium74/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV3" tvg-logo="https://i.postimg.cc/NFPpyDvs/download-2024-01-25-T184932-903.png" group-title="|SPORTS| Premium 1🚩", Sports TV3
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium454/index.m3u8
+#https://webudit.webhd.ru/lb/premium454/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV4" tvg-logo="https://i.postimg.cc/rwb26GdL/images-14.png" group-title="|SPORTS| Premium 1🚩", Sports TV4
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium289/index.m3u8
+#https://webudit.webhd.ru/lb/premium289/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV5" tvg-logo="https://i.postimg.cc/SR5H0ksf/download-2024-01-25-T185145-714.png" group-title="|SPORTS| Premium 1🚩", Sports TV5
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium290/index.m3u8
+#https://webudit.webhd.ru/lb/premium290/index.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="https://dl.dropboxusercontent.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="|SPORTS| Premium 1🚩",RMC Sport 1
-http://103.113.116.150:25461/mtm1/12345/168
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #https://webudit.webhd.ru/lb/premium119/index.m3u8|Origin=https://weblivehdplay.ru/
+#http://103.113.116.150:25461/mtm1/12345/168
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="|SPORTS| Premium 1🚩",RMC Sport 2
-http://103.113.116.150:25461/mtm1/12345/169
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#https://webudit.webhd.ru/lb/premium120/index.m3u8|Origin=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium120/index.m3u8|Origin=https://weblivehdplay.ru/
+#http://103.113.116.150:25461/mtm1/12345/169
 
 #EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC Sport 3" tvg-logo="https://dl.dropboxusercontent.com/s/66ujgn3kqiaj44i/rmcsport.png" group-title="|SPORTS| Premium 1🚩",RMC Sport 3
-http://103.113.116.150:25461/mtm1/12345/170
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#https://webudit.webhd.ru/lb/premium121/index.m3u8|Origin=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium121/index.m3u8|Origin=https://weblivehdplay.ru/
+#http://103.113.116.150:25461/mtm1/12345/170
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport France" tvg-logo="https://dl.dropboxusercontent.com/s/cuqmceeumh8dm11/canal%2B.png" group-title="|SPORTS| Premium 1🚩",Canal+ Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1783,10 +1789,6 @@ https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000094_019321/manifest.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="|SPORTS| Premium 1🚩", ZIGGO SPORT DOCU
 https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000098_019255/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b18766306c8b4446a7431f3664976a5e:064cf3223b9c2bdda24e9f89bf28a6d2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="|SPORTS| Premium 1🚩", ESPN NL
-https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000107_019441/manifest.mpd
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" , ZIGGO SPORT
 #EXTVLCOPT:network-caching=1000
@@ -2277,7 +2279,13 @@ https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0003e5d66d7501ff2930c80e9b5609fc:32661be41b5b713dcd88683cd389af21
-https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd
+#https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="|SPORTS| Premium 2🚩", Sky Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 2🚩", Sky Sports Cricket
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2315,12 +2323,17 @@ https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #https://linear004-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsf150)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 2🚩", Sky Sports Football
-http://103.113.116.150:25461/mtm1/12345/128
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00033a7801c324b97dd9997d15cd1e6d:da90342266ae32a331a83bd05d6308bd
 #https://linear016-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_sd.mpd
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 2🚩", Sky Sports Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005598a4d0f91328444c6fcdea04acb:ab03caec7a18da1fa6a8f306d91715a1
+https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 2🚩", Sky Sports Football HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
