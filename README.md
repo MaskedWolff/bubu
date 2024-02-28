@@ -2,30 +2,6 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 27 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 Persib vs PSIS
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 27 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Man City vs Luton Town
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 27 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:30 Real Sociedad vs Mallorca
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 27 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Newcastle United vs Blackburn
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 28 Februari✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",15:00 Kediri vs Barito
 
@@ -77,12 +53,23 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 1 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Ac Milan vs Lazio
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 1 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:30 Bayern Munchen vs Freiburg
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 1 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 PSG vs Monaco
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 1 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:00 Al Hilal vs Al Ittihad
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -105,6 +92,51 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 group-logo="" group-title="Matchday, 2 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:30 Dortmund vs Berlin
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 2 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:00 Al Ahli vs Al Fateh
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Man City vs Man United
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 Burnley vs Bournemouth
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:15 Atletico Madrid vs Real Betis
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:30 Griona vs Mallorca
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Barcelona vs Athletic Club
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Juventus vs Napoli
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:30 Leverkusen vs Koln
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",18:45 Ajax vs Utrecht
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 4 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Arsenal vs Sheffield
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 4 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Internazionale vs Genoa
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 4 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:00 Al Nassr vs Al Ain
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 5 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 PSG vs Real Sociedad
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 5 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Bayern Munchen vs Lazio
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 5 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",17:00 Jeonbuk vs Ulsan
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 5 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:00 Al Hilal vs Al Ittihad
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Man City vs Kobenhavn
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Real Madrid vs RB Leipzig
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",17:00 Taishan vs Yokohama
 
 ===============================================================================
 
@@ -130,15 +162,34 @@ http://iptvtree.net:8080/F26646/f950f250/162138
 
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml/4+5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"+udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof/0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi/k1JwslM9Vr0c/Q","k":"uIP7+bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+
+#EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
+#EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -147,102 +198,83 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-#EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
- 
-#EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
  
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd?p=web
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd?p=web
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd?p=web
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
 
 
 
 
 #EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 10
-http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 9
-http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
-
-#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6685&type=drm
-https://srtv.my.id/vd/play.mpd?id=6685&type=dash
-
-#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
-https://srtv.my.id/vd/play.mpd?id=6686&type=dash
-
-#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6786&type=drm
-https://srtv.my.id/vd/play.mpd?id=6786&type=dash
-
-#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
-
-#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 7
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-
-#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 3 
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
-
-#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
+#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 4
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
+
+#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 3 
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd?p=web
+
+
 #EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
 
 
@@ -254,118 +286,113 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762e
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm
-https://srtv.my.id/vd/play.mpd?id=9182&type=dash
-
-
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm
-https://srtv.my.id/vd/play.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd?p=web
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 5
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd?p=web
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 6
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 7
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd?p=web
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 1
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
+#EXTINF:-1 group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTINF:-1 group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 8
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9",LALIGA LIVE 3
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Liga Eropa🏆",LALIGA LIVE 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
-http://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001
+
 #EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Liga Eropa🏆",LALIGA LIVE 5
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Liga Eropa🏆",LALIGA LIVE 6
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Liga Eropa🏆",LALIGA LIVE 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000354713f5113fd49f41f556bdf1add:9a6ca88b3b6c7088c8197a7366f2e7e5
-http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier2sports50)/manifest_hd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LGPDhBuQwsvxFZadz3ERxQ","k":"tx3xGfme5xJ+d6U5jSWAHg"},{"kty":"oct","kid":"8e9ytdWdsgMkNR57W9BNgA","k":"gEY5W13F1WWxaRuoe8SXuQ"},{"kty":"oct","kid":"AxzO7igq5WxWuYReDwM+0A","k":"im9fSEhkxYE2mYwDEyD09g"},{"kty":"oct","kid":"xtJWXPWGhrVJSEucDWPTuA","k":"f048YK7p2qX2K4K98YEL0w"},{"kty":"oct","kid":"I9ioEUXoLWH18zkkEigFOQ","k":"Wb/7P1V/7GUD/m92poiBog"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Liga Eropa🏆",LALIGA LIVE 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
 
 #EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2023-06/c3acb370-03a0-11ee-8957-525d7f4643f9" group-title="|EVENT| Liga Eropa🏆",LALIGA LIVE 10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 
 
