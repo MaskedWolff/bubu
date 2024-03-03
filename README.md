@@ -269,7 +269,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762e
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 3
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -279,7 +279,8 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd?p=web
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -287,11 +288,9 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd?p=web
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd?p=web
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd?p=web
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 7
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
@@ -309,7 +308,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 10
+#EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
