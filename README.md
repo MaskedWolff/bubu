@@ -2,55 +2,6 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Man City vs Man United
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 Burnley vs Bournemouth
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:15 Atletico Madrid vs Real Betis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:30 Griona vs Mallorca
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Barcelona vs Athletic Club
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Juventus vs Napoli
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:30 Leverkusen vs Koln
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd?p=web
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",18:45 Ajax vs Utrecht
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 #EXTINF:-1 group-logo="" group-title="Matchday, 4 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Arsenal vs Sheffield
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -112,10 +63,44 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 6 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Man City vs Kobenhavn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd?p=web
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 6 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Real Madrid vs RB Leipzig
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 6 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",17:00 Taishan vs Yokohama
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:45 Liverpool vs Sparta Praha
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:45 Roma vs Brighton
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:45 Leverkusen vs Qarabag
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Milan vs Slavia Praha
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Westham vs Freiburg
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 7 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:45 Ajax vs Aston Villa 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 8 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Barcelona vs Mallorca
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 8 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Napoli vs Torino
 
 ===============================================================================
 
@@ -1064,7 +1049,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png" group-title="|SPORTS| Premium 1🚩", TNT Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00079dbbb526c7cb40aec345e2b007d5:91e2e12e61a535528d3bc19371c26ea4
-http://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport1)/manifest_sd.mpd
+#http://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport1)/manifest_sd.mpd
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png" group-title="|SPORTS| Premium 1🚩", TNT Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1240,7 +1225,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1🚩", CBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1🚩", CBS Sports Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
