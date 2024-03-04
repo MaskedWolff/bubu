@@ -1271,7 +1271,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:0 group-title="|SPORTS| Premium 1🚩" tvg-id="vsportpremium.se" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-sport-premium-sweden.png",V Sport Premium
+#EXTINF:0 group-title="|SPORTS| Premium 1🚩" tvg-id="vsportpremium.se" tvg-logo="https://svgmix.com/uploads/9e759d-v-sport-premium-hd.svg",V Sport Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
