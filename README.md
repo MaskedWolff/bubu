@@ -1066,7 +1066,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 #http://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport4)/manifest_sd.mpd
 
 
-=========================================== PLAY SPORTS ===========================================
+Play sports
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1🚩" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185037893738_image-header_pRow_1688019824000&quality=70",Play Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
