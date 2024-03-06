@@ -141,7 +141,23 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:00
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 Aston Villa vs Spurs
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:45 Liverpool vs Man City
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Brighton vs Forest
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:30 Real Madrid vs Celta Vigo
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Milan vs Empoli
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:00 Juventus vs Atlanta
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Roma vs Fiorentina
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:30 Leverkusen vs Wolfsburg
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 10 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 PSG vs Reims
 
 ===============================================================================
 
@@ -928,6 +944,26 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="|SPORTS| Premium 2🚩" tvg-id="dazn4spain.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",DAZN Es 4 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8|Origin=https://weblivehdplay.ru
+#https://webudit.hlsjs.ru/lb/premium448/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://www.tring.al/wp-content/themes/tring/img/logo.svg" group-title="|SPORTS| Premium 1🚩", Tring sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=cleark ey
+#KODIPROP:inputstream.adaptive.license_key={"6d3b3 c741ba34dcaa1a4c13f644797f1":"5291a8de88aade07c19b c515ea93c3c7","02f3babe6e814e399ce5f66a2fa9eaf5":" 4ed8c640ecb709df5ed136e016695e45"}
+https://fe.tring.al/delta/101/out/u/sportnjeottencryption.mpd
+
+#EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://www.tring.al/wp-content/themes/tring/img/logo.svg" group-title="|SPORTS| Premium 1🚩", Tring sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=cleark ey
+#KODIPROP:inputstream.adaptive.license_key={"6d3b3 c741ba34dcaa1a4c13f644797f1":"5291a8de88aade07c19b c515ea93c3c7","02f3babe6e814e399ce5f66a2fa9eaf5":" 4ed8c640ecb709df5ed136e016695e45"}
+https://fe.tring.al/delta/101/out/u/tringsport4ottencryption.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ng9SDcr.png" group-title="|SPORTS| Premium 2🚩", Zona Dazn IT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1834,6 +1870,16 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 #EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="|SPORTS| Premium 1🚩", ESPN Extra
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+#EXTINF:-1 group-title="|SPORTS| Premium 1🚩" tvg-id="espndeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium375/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 group-title="|SPORTS| Premium 1🚩" tvg-id="espn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png",ESPN US 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8|Origin=https://weblivehdplay.ru
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
