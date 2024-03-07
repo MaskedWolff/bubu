@@ -1,11 +1,4 @@
-#EXTM3U url-tvg=https://github.com/AqFad2811/epg/blob/main/astro.xml
-#EXTM3U url-tvg=https://github.com/AqFad2811/epg/blob/main/epg.xml
-#EXTM3U url-tvg=https://github.com/AqFad2811/epg/blob/main/indonesia.xml
-#EXTM3U url-tvg=https://github.com/AqFad2811/epg/blob/main/rtmklik.xml
-#EXTM3U url-tvg=https://github.com/AqFad2811/epg/blob/main/singapore.xml
-#EXTM3U url-tvg=https://github.com/AqFad2811/epg/blob/main/starhubtv.xml
-#EXTM3U url-tvg=https://github.com/AqFad2811/epg/blob/main/unifitv.xml
-
+#EXTM3U url-tvg="https://github.com/AqFad2811/epg/blob/main/astro.xml" url-tvg="https://github.com/AqFad2811/epg/blob/main/epg.xml" url-tvg="https://github.com/AqFad2811/epg/blob/main/indonesia.xml" url-tvg="https://github.com/AqFad2811/epg/blob/main/singapore.xml" #EXTM3U url-tvg="https://github.com/AqFad2811/epg/blob/main/rtmklik.xml"
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 8 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Barcelona vs Mallorca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
