@@ -33,9 +33,9 @@ https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spec
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 7 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:45 Ajax vs Aston Villa 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 	
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium475/index.m3u8|Origin=https://weblivehdplay.ru
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
