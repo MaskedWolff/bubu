@@ -985,16 +985,14 @@ https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8|Origin=https://webliveh
 #https://webudit.hlsjs.ru/lb/premium448/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://www.tring.al/wp-content/themes/tring/img/logo.svg" group-title="|SPORTS| Premium 1🚩", Tring sport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=cleark ey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d3b3 c741ba34dcaa1a4c13f644797f1":"5291a8de88aade07c19bc515ea93c3c7","02f3babe6e814e399ce5f66a2fa9eaf5":" 4ed8c640ecb709df5ed136e016695e45"}
 https://mfe01.tring.al/delta/101/out/u/sportnjeottencryption.mpd
 
 #EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://www.tring.al/wp-content/themes/tring/img/logo.svg" group-title="|SPORTS| Premium 1🚩", Tring sport 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=cleark ey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d3b3 c741ba34dcaa1a4c13f644797f1":"5291a8de88aade07c19bc515ea93c3c7","02f3babe6e814e399ce5f66a2fa9eaf5":" 4ed8c640ecb709df5ed136e016695e45"}
 https://mfe01.tring.al/delta/101/out/u/tringsport4ottencryption.mpd
 
