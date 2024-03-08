@@ -134,10 +134,26 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 11 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Chelsea vs Newcastle United
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 11 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Lazio vs Udinese
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd?p=web
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 11 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Al Nassr vs Al Ain
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1865,6 +1881,16 @@ https://webhdrus.onlinehdhls.ru/lb/premium375/index.m3u8|Origin=https://webliveh
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwvQQ_6ftC-nv20USysh8UZO3VoFl0085Bg&usqp=CAU" group-title="|SPORTS| Premium 1🚩",TYC SPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+https://edge-live13-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwvQQ_6ftC-nv20USysh8UZO3VoFl0085Bg&usqp=CAU" group-title="|SPORTS| Premium 1🚩",TYC SPORT INTENASIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
